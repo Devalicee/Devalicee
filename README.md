@@ -8,11 +8,10 @@ Aqui estão as principais tecnologias e linguagens que utilizo no dia a dia.
 
 ### Backend & Database
 
-| Tecnologia | Descrição | Ícone |
-| :--- |:---: |
-| **Java** |  | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Ícone Java"> |
-| **Spring Boot** | | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Ícone Spring Boot"> |
-| **MySQL** | | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Ícone MySQL"> |
+Tecnologia  Descrição Ícone 
+**Java**  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Ícone Java"> 
+ **Spring Boot**  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Ícone Spring Boot"> 
+**MySQL** <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Ícone MySQL"> 
 
 ### Frontend
 
