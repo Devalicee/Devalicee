@@ -1,46 +1,34 @@
-<h2 align="left"> Olá👋 Sejam bem vindos, ao meu mundinho particular 🧑🏽‍💻</h2>
+# 🚀 Nome do Seu Projeto
+Este é um projeto **[Breve descrição do projeto: Ex: Uma API RESTful de gerenciamento de tarefas / Um e-commerce simples, etc.]** que demonstra a minha proficiência em um conjunto robusto de tecnologias *Full Stack*. O foco principal está na arquitetura **Java** com o framework **Spring Boot** no *backend* e um *frontend* leve em **HTML/CSS**.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+## 🛠️ Stacks Utilizadas
 
-###
+Aqui estão as principais tecnologias e linguagens que compõem este projeto.
 
-<div align="center">
+### Backend & Database
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devalicee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img
-   src="https://github-readme-stats.vercel.app/api/top-langs?username=Devalicee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+| Tecnologia | Descrição | Ícone |
+| :--- | :--- | :---: |
+| **Java** | Linguagem de programação robusta, orientada a objetos, utilizada para a lógica de negócios. | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Ícone Java"> |
+| **Spring Boot** | Framework para facilitar e acelerar a criação de aplicações **Java** de nível de produção. | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Ícone Spring Boot"> |
+| **MySQL** | Sistema de gerenciamento de banco de dados relacional, utilizado para persistência dos dados. | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Ícone MySQL"> |
 
-###
+### Frontend
 
-<br clear="both">
+| Tecnologia | Descrição | Ícone |
+| :--- | :--- | :---: |
+| **HTML5** | Linguagem de marcação utilizada para estruturar o conteúdo das páginas web. | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Ícone HTML5"> |
+| **CSS3** | Linguagem de estilo utilizada para estilizar e dar layout às páginas. | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Ícone CSS3"> |
 
 
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
+<a href="https://www.google.com/search?q=https://www.instagram.com/SEU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram"></a>
 
 
 
-###
+
+---
+
+## 
